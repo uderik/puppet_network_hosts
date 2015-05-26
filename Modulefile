@@ -1,4 +1,4 @@
-name    'network_hosts'
+name 'network_hosts'
 version '0.0.1'
 source 'UNKNOWN'
 author 'uderik'
